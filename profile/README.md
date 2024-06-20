@@ -23,4 +23,4 @@ Our team recognized the complexities of travel planning through both personal ex
 | Aenu Rizqiana                    | C289D4KX0661 | Cloud Engineer   |
 | Fara Deviana                     | C496D4KX0612 | Cloud Engineer   |
 | Ananda Wahyan Abdillah           | A214D4KY3379 | Mobile Developer |
-| Kharisma Suci Artamevia          | A214D4KY3379 | Mobile Developer |
+| Kharisma Suci Artamevia          | A214D4KX3550 | Mobile Developer |
